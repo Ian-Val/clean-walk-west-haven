@@ -1,0 +1,28 @@
+body {
+	background-color: whitesmoke;
+	font-size: 200;
+	padding: 0px;
+	margin: 0px;
+}
+
+nav {
+	background-color: lightgray;
+	text-align: right;
+	padding: 15px;
+}
+
+h1 {
+	text-align: center;
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+	background-color: dimgray;
+}
+
+footer {
+	background-color: lightgray;
+	text-align: center;
+	padding: 15px;
+}
