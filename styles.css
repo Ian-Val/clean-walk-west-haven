@@ -17,8 +17,9 @@ h1 {
 
 #map {
 	height: 400px;
-	width: 100%;
-	background-color: dimgray;
+	width: 90%;
+	background-color: lightgray;
+	margin: auto;
 }
 
 footer {
